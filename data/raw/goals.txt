@@ -1,0 +1,31 @@
+2024 Personal Goals:
+
+Career:
+- Get promoted to senior software engineer by end of year.
+- Complete at least 3 AI/ML projects for my portfolio.
+- Give a tech talk at a local meetup or conference.
+- Learn about RAG systems and build a personal assistant.
+
+Health:
+- Run a half marathon in November.
+- Go to the gym at least 4 times per week.
+- Cook healthy meals at home instead of ordering delivery.
+- Sleep at least 7 hours every night.
+
+Finance:
+- Save 20% of monthly income.
+- Max out 401k contributions.
+- Build an emergency fund of 6 months expenses.
+- Start investing in index funds.
+
+Learning:
+- Finish the Stanford CS229 machine learning course.
+- Read at least 24 books this year (2 per month).
+- Get AWS Solutions Architect certification.
+- Learn about vector databases and embedding models.
+
+Personal:
+- Travel to Japan in spring.
+- Learn 10 new guitar songs.
+- Start a technical blog and publish at least 12 posts.
+- Volunteer at a local coding bootcamp.

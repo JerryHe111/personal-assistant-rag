@@ -1,0 +1,5 @@
+My name is Jerry. I live in New York City. I work as a software engineer and I'm currently learning about AI and machine learning. My favorite programming language is Python. I also enjoy TypeScript for web development.
+
+I graduated from university in 2020 with a degree in Computer Science. After graduation, I worked at a startup for two years before moving to my current company.
+
+My hobbies include hiking, photography, and cooking. On weekends, I usually go to Central Park for a run or try new recipes at home. I'm also learning to play the guitar.

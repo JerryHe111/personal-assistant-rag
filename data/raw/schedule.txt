@@ -1,0 +1,15 @@
+Weekly Schedule:
+
+Monday: Team standup at 9:30 AM. Deep work block from 10 AM to 12 PM. Lunch with the team at 12:30 PM. Code review session at 2 PM. Gym at 6 PM.
+
+Tuesday: One-on-one meeting with manager at 10 AM. Project planning from 11 AM to 12 PM. Free afternoon for coding. Online AI course at 7 PM.
+
+Wednesday: Same as Monday but with a dentist appointment at 4 PM on the first Wednesday of each month.
+
+Thursday: Sprint demo at 11 AM. Pair programming session at 2 PM. Guitar lesson at 7 PM.
+
+Friday: Retrospective at 10 AM. Learning and exploration time in the afternoon. Happy hour with coworkers at 5 PM.
+
+Saturday: Morning run at Central Park at 8 AM. Grocery shopping. Cooking experiments. Photography walk in the afternoon.
+
+Sunday: Rest day. Brunch with friends. Study session for AI/ML in the afternoon. Meal prep for the week.

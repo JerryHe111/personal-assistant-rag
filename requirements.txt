@@ -1,0 +1,12 @@
+# Phase 1: Minimal RAG dependencies
+openai>=1.30.0
+chromadb>=0.5.0
+python-dotenv>=1.0.0
+
+# Phase 2: Document ingestion + chunking
+langchain-text-splitters>=0.2.0
+langchain-experimental>=0.3.0
+langchain-openai>=0.2.0
+
+# Phase 3: PDF parsing
+PyMuPDF>=1.24.0
